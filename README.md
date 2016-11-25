@@ -19,7 +19,7 @@ To run the BurgerBot you must have an [API token](#getting-the-api-token-for-you
 
 
 ```bash
-BOT_API_KEY=somesecretkey burgerbot
+BOT_API_KEY=somesecretkey node bin/bot.js
 ```
 
 
