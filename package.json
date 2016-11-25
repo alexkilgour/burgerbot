@@ -33,8 +33,7 @@
     "progress": "^1.1.8",
     "request": "^2.60.0",
     "slackbots": "^0.3.0",
-    "cheerio": "^0.22.0",
-    "express": "^4.14.0",
+    "cheerio": "^0.22.0"
   },
   "devDependencies": {
     "xo": "^0.5.2"

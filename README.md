@@ -56,3 +56,6 @@ Don't forget to set your `BOT_API_KEY` environment variable before doing so. Alt
 
 If you find a bug or have an idea about how to improve the BurgerBot you can [open an issue](https://github.com/alexkilgour/burgerbot/issues) or [submit a pull request](https://github.com/alexkilgour/burgerbot/pulls).
 
+## Thanks
+
+The code for BurgerBot was based on [this article](https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers) by [Scotch.io](https://scotch.io).
