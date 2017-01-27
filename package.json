@@ -29,10 +29,8 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "async": "^1.4.1",
-    "progress": "^1.1.8",
     "request": "^2.60.0",
-    "slackbots": "^0.3.0",
+    "slackbots": "^1.0.2",
     "cheerio": "^0.22.0"
   },
   "devDependencies": {
